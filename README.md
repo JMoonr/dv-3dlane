@@ -37,6 +37,10 @@ Please follow [data preparation](./docs/prepare_data.md) to prepare the dataset.
 ## Train & evaluation
 Please follow the steps in [train and evaluation](./docs/train_eval.md#train).
 
+## Code Documentation
+For a comprehensive explanation of the codebase architecture, model components, and configuration system, see:
+- [**Code Explanation**](./docs/code_explanation.md) - Detailed breakdown of the DV-3DLane architecture, configuration files, model components, training pipeline, and design insights.
+
 ## Acknowledgment
 
 This library is inspired by [LATR](https://github.com/JMoonr/LATR), [OpenLane](https://github.com/OpenDriveLab/PersFormer_3DLane), [GenLaneNet](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection), [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [SparseInst](https://github.com/hustvl/SparseInst), [PillarNet](https://github.com/VISION-SJTU/PillarNet-LTS), and many other related works, we thank them for sharing the code and datasets.
